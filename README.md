@@ -1,5 +1,5 @@
 <h1 align="center">
-  <RHYS GREANEY'S GITHUB/>
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Rhys Greaney's Github ReadMe" />
 </h1>
 
 ## Hey! 👋
