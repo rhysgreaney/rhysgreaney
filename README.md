@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">
+  <RHYS GREANEY'S GITHUB/>
+</h1>
 
-<!--
-**rhysgreaney/rhysgreaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Rhys, a 23 year old beginner programmer from Perth, Western Australia
 
-Here are some ideas to get you started:
+- Employee @ Perth Radiological Clinic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying @ Curtin University, Bentley
+
+- Integral part of the Business Application Development team @ Curtin University, Bentley
++ a lot more ;)
+
+## Skills
+- JavaScript, PHP
+- React
+- HTML, CSS
+- SQL
+
+## Contact
+- https://au.linkedin.com/in/rhys-greaney-8930201b2
