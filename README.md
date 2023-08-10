@@ -9,16 +9,16 @@
 </p>
 <p align="center">
   <a href="https://github.com/rhysgreaney/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/issues/rhysgreaney/github-profile-trophy"/> 
   </a>
   <a href="https://github.com/rhysgreaney/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/forks/rhysgreaney/github-profile-trophy"/> 
   </a>  
   <a href="https://github.com/rhysgreaney/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/stars/rhysgreaney/github-profile-trophy"/> 
   </a>
     <a href="https://github.com/rhysgreaney/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+    <img src="https://img.shields.io/github/license/rhysgreaney/github-profile-trophy"/> 
   </a>
 </p>
 <p align="center">
@@ -28,10 +28,7 @@
   </a>
 </p>
 <p align="center">
-  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
-</p>
-<p align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
+  <a href="https://github.com/sponsors/rhysgreaney">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
 </p>
